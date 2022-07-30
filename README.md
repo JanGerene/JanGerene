@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanGerene a retrired software engineer from Belgium
+- 👋 Hi, I’m @JanGerene a retired software engineer from Belgium
 - 👀 I’m interested in robotics, embedded systems, microcontrollers etc
 - 🌱 I’m currently learning AI and machine learning
 - 💞️ I’m looking to collaborate on ...
